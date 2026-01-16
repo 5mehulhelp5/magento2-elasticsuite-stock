@@ -9,6 +9,9 @@
 
 This module by Amadeco extends Smile ElasticSuite (https://github.com/Smile-SA/elasticsuite) to add an advanced stock filter in the layered navigation.
 
+PR to reimplement "quantity_and_stock_status" product attribute (currently open) :
+https://github.com/magento/magento2/pull/40425#issue-3797047961
+
 ## Features
 
 <img width="1132" alt="Capture d'écran 2025-04-13 à 21 23 40" src="https://github.com/user-attachments/assets/ecdf90d2-6afa-4524-964a-b2127db1ea5b" />
